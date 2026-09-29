@@ -1,0 +1,7 @@
+print("Hello World", 7)
+print("something New happening in life each every second")
+print("5")
+print("bye")
+print(17*88)
+print(90+666)
+print("666-676768")

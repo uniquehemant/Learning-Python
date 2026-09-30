@@ -1,0 +1,16 @@
+`"""
+Hey Hemant, Please do not remove this line
+Author: Hemant
+Course: Python Learning
+"""
+print("I am a Good boy\nand this viewer are also a good boy/girl write with escape sequence ")
+print("single line comment")
+#print("Hello World")
+#This is a 'Single line comment'
+#print("This is a print statement")
+#print("Hello World !!!") #Printing Hello World
+print('Hey I am a \"good boy"\nand this viewer is a good boy/girl')
+
+print("Hey",2,3,3,4,5,7,sep='~', end="\n")
+print("Hemant")
+print("Hey", 1,2,3,4,6,7,8, end="\n")

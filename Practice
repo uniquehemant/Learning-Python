@@ -1,0 +1,7 @@
+print("Name: Hemant Kumar")
+print("Role: Developer")
+print("City: Greater Noida, Uttar Pradesh")
+
+print("Name: Hemant Kumar\n Role: Developer\n City: Delhi")
+
+print("Python Says: It's easy to learn C:\\Python\\ main.py")

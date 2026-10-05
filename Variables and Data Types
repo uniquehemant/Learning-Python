@@ -1,0 +1,18 @@
+a=1849384983598
+a=complex(8, 2)
+print(a)
+a1=9
+b="Hemant"
+c="Kumar"
+d=None
+print(b)
+print(a+a1)
+print("The type of a is",type(a))
+print("The type of b is", type(b))
+print("The type of c is", type(c))
+list1 = 1,2,3,4
+print(list1)
+tuple1 = (("Parrot","Sparrow"),("Lion", "Tiger"))
+print(tuple1)
+dict1 = {"Name: Hemant","Age:22", "Can Vote: True"}
+print(dict1)

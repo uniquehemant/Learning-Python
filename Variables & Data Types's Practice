@@ -1,0 +1,34 @@
+age=22
+print(age)
+height=5.2
+print(height)
+name="Hemant Kumar"
+print(name)
+is_student= "Yes"
+print(is_student)
+num_str=200
+print(num_str)
+num_int=50
+print(num_int)
+print(num_str+(num_int))
+fruits=("Mango","Banana","Gauva","Pineapple")
+print(fruits)
+# index 0->="Mango"
+# index 1->="Banana"
+# index 2->="Gauva"
+# index 3->="Pineapple"
+print(fruits[1])
+print(fruits[3])
+student= {"Name": "Hemant",
+          "Age":"22", 
+          "Marks":"437", 
+          "Status":"Pass"}
+print(student["Name"])
+print(student["Marks"])
+numbers=[1,2,2,4,5,5,7]
+print(numbers)
+my_set=set(numbers)
+print(my_set)
+x = 100
+y = "50"
+print(x+int(y))

@@ -1,0 +1,25 @@
+# implicit typecasting
+a = "5"
+b = "9"
+print(int(a)+int(b))
+
+# explicit typecasting
+string = "15"
+number = 7
+string_number = int(string)
+sub = number - string_number
+print("the sum of both numbers is:",sub)
+
+# implicit typecasting
+# python automatically converts
+# a to int
+a = 7
+print(type(a))
+
+# python automatically converts b to float
+b = 3.0
+print(type(b))
+# python converts automatically c to float as it is a float addition
+c = a+b
+print(c)
+print(type(c))

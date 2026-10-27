@@ -1,0 +1,29 @@
+# If Statements
+age = int(input("Enter your age"))
+if(age >= 18):
+  print("You have to right vote")
+else:
+  print("Your are minor yet")
+
+# Elif statements
+passingmarks = 33
+if(passingmarks <3):
+   print("Failed")
+elif(passingmarks >44):
+   print("pass")
+elif(passingmarks ==33):
+   print("pass")
+else:
+  print("Your are lucky")
+
+# nested_if statements
+age = 22
+has_ticket = True
+if(age >=18):
+  print("You are eligible")
+  if(has_ticket == True):
+    print("You can watch the movie, Enjoy your show")
+  else:
+    print("You cannot watch the movie")
+else:
+  print("You are minor Yet")

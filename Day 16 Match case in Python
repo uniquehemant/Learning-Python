@@ -1,0 +1,10 @@
+month = "October"
+match month:
+  case "March"| "April" | "May":
+    print("Garmi ka Mausam (summer)")
+  case "June" | "July" | "August":
+    pritn("Barish ka mausam (Mansoon)")
+  case "October" | "November"| "December"| "January" | "February":
+    print("Sardi ka mausam (winter)")
+  case _:
+    print("Galat Mahine ka naam hai!")

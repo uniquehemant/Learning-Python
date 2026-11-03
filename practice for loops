@@ -1,0 +1,13 @@
+name = "Python"
+for i in name:
+  print(i)
+name = "Heamant Kumar"
+for letter in name:
+  print(letter,end=",")
+  
+list = [12,11,22,22]
+for n in list:
+  print(n+2,end=",")
+
+for n in range(1,100):
+  print(n)

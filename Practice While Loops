@@ -1,0 +1,13 @@
+i = int(input("enter a number"))
+while True:
+  print(i)
+  i = i +1
+  if i > 5:
+    break
+# do while ko emulate karna
+number = int(input("enter a number"))
+while True:
+   print(number)
+   number = number + 1
+   if number > 10:
+    break
